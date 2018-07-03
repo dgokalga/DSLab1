@@ -1,4 +1,5 @@
 
+
 ABOUT * Data Structure 605.202 Lab 1
 
 AUTHOR * D.G.
@@ -14,6 +15,7 @@ Compiled code can be found in bin folder.
 DETAILED USAGE * java -cp bin LangIO filename_input filename_output
 
 PURPOSE * Evaluate a given string is in a language L, in which: 
+
 			•	L1 = { w: w contains equal numbers of A's and B's (in any order) and no other characters} 
 			
 			•	L2 = { w: w is of the form A^n B^n, for some n > 0 } 
