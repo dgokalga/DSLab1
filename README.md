@@ -1,10 +1,13 @@
 ABOUT * Data Structure 605.202 Lab 1
+
 AUTHOR * D.G.
 
 Java Version * JDK 1.8
+
 IDE * Eclipse Java EE
 
 Source code can be found in src folder.
+
 Compiled code can be found in bin folder.
 
 DETAILED USAGE * java -cp bin LangIO filename_input filename_output
